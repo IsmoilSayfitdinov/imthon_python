@@ -1,1 +1,1 @@
-<h1 align="left" style="color: red">Python</h1>
+<h1 align="left" style="red">Python</h1>
