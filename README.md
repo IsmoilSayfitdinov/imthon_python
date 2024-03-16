@@ -47,11 +47,7 @@
 
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>anex | airaport</title>
     <link rel="apple-touch-icon" sizes="57x57" href="../img/favicon/apple-icon-57x57.png">
@@ -72,25 +68,21 @@
     <meta name="msapplication-TileImage" content="../img/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
-    <link rel="stylesheet" href="home.css">
+<link rel="stylesheet" href="home.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
-</head>
-<body>
     <div class="containers">
         <nav>
             <img src="../img/logo (1) 1.png" alt="">
-
             <ul>
-                <li>Подбор тура</li>
+              <li>Подбор тура</li>
                 <li>Горящие туры</li>
                 <li>Страны</li>
                 <li>Oтели</li>
             </ul>
 
-            <button class="sms">оставить заявку</button>
+   <button class="sms">оставить заявку</button>
            <div class="main_contacts">
-           
-           </div>
+                      </div>
            <div class="contacts_users">
             <h3>Перезвонить вам?</h3>
             <p>Оставьте свой номер 
@@ -100,7 +92,7 @@
             <button type="submit" class="btns">отправить</button>
         </div>
 
-            <div class="nav_icons">
+   <div class="nav_icons">
                 <img src="../img/call-icon-2047x2048-1v137evf.png" alt="">
                 <img src="../img/535239.png" alt="">
             </div>
@@ -135,7 +127,7 @@
                 </select>
                 <div class="div"></div>
 
-                <span>Вылет</span>
+   <span>Вылет</span>
                 <input type="date">
 
                 <button>подобрать</button>
