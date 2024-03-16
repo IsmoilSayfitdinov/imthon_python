@@ -1,1 +1,1 @@
-<h1>I am Ismoil Sayfitdinov</h1>
+<h1 align="left">Salom</h1>
